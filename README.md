@@ -21,7 +21,27 @@
 - **Discord Chatbot** – Custom bot built with Node.js & Discord.js.  
 - **Zombie Shooter Game** – Fun game made with Unity 3D & C#.  
 - **SeedZone E-Commerce** – Seed-selling platform using Django (in progress).  
-- **LMS (Learning Management System)** – Django + FastAPI backend, custom frontend UI (in progress).  
+- **LMS (Learning Management System)** – Django + FastAPI backend, custom frontend UI (in progress).
+
+---
+
+##  Experience
+
+# Python Intern – Cravita Technologies (06/2023 – 12/2023)
+
+- Built LMS and E-Commerce projects using Django.
+
+- Worked on backend APIs, database integration, and frontend development.
+
+- Collaborated in team-based project sprints.
+
+# Tech Support Intern – GAOTEK Inc. (Remote) (10/2024 – 01/2025)
+
+- Provided technical support for clients remotely.
+
+- Troubleshot hardware/software/networking issues.
+
+- Hands-on with remote monitoring and performance optimisation.
 
 ---
 
